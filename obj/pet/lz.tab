@@ -1,0 +1,15 @@
+
+SC_FUNC: _main: Symbol table
+============================
+__fixargs__:
+    Flags: SC_CONST SC_DEF
+    Type:  unsigned int
+__argsize__:
+    Flags: SC_CONST SC_DEF
+    Type:  unsigned char
+in:
+    Flags: SC_AUTO SC_DEF SC_REF
+    Type:  unsigned char *
+
+
+
