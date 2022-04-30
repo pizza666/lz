@@ -1,3 +1,10 @@
 obj
+obj/*
 .vscode
 Makefile.options
+*.c64
+*.dbg
+*.d64
+*.map
+*.lbl
+
